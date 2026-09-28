@@ -16,10 +16,10 @@ Unfortunately, the site is no longer running, as the university shut down our "c
 [Documentation](https://github.com/FabianGB01/documentation)
 Is a breif explanation of the structure of our microservices.
 
-Below are the four microservices and the frontend :
-[User](https://github.com/FabianGB01/User)
-[Item Management](https://github.com/FabianGB01/Item_Management)
-[Matching service](https://github.com/FabianGB01/matching-service)
-[notification service](https://github.com/FabianGB01/notification-service)
-
+Below are the four microservices and the frontend :  
+[User](https://github.com/FabianGB01/User)  
+[Item Management](https://github.com/FabianGB01/Item_Management)  
+[Matching service](https://github.com/FabianGB01/matching-service)  
+[notification service](https://github.com/FabianGB01/notification-service)  
+  
 [Frontend](https://github.com/FabianGB01/Frontend)

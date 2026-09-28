@@ -11,4 +11,15 @@ The links below let you explore each microservice in detail.
 
 Unfortunately, the site is no longer running, as the university shut down our "cloud" after the course ended.
 
-[documentation]
+
+
+[Documentation](https://github.com/FabianGB01/documentation)
+Is a breif explanation of the structure of our microservices.
+
+Below are the four microservices and the frontend :
+[User](https://github.com/FabianGB01/User)
+[Item Management](https://github.com/FabianGB01/Item_Management)
+[Matching service](https://github.com/FabianGB01/matching-service)
+[notification service](https://github.com/FabianGB01/notification-service)
+
+[Frontend](https://github.com/FabianGB01/Frontend)
